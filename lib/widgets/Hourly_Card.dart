@@ -1,4 +1,4 @@
-import 'package:faradars_weather/model/HourlyWeather.dart';
+import 'package:weatherjavadtest/model/HourlyWeather.dart';
 import 'package:flutter/material.dart';
 
 class Hourly_Card extends StatelessWidget {

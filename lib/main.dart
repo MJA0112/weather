@@ -1,5 +1,5 @@
-import 'package:faradars_weather/page/DayDetailsPage.dart';
-import 'package:faradars_weather/page/SplashPage.dart';
+import 'package:weatherjavadtest/page/DayDetailsPage.dart';
+import 'package:weatherjavadtest/page/SplashPage.dart';
 import 'package:flutter/material.dart';
 
 void main() {

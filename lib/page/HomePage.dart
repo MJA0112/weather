@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:faradars_weather/model/HourlyWeather.dart';
-import 'package:faradars_weather/model/weathermodel.dart';
-import 'package:faradars_weather/widgets/DailyCard.dart';
-import 'package:faradars_weather/widgets/Hourly_Card.dart';
-import 'package:faradars_weather/widgets/TitleTextWidget.dart';
+import 'package:weatherjavadtest/model/HourlyWeather.dart';
+import 'package:weatherjavadtest/model/weathermodel.dart';
+import 'package:weatherjavadtest/widgets/DailyCard.dart';
+import 'package:weatherjavadtest/widgets/Hourly_Card.dart';
+import 'package:weatherjavadtest/widgets/TitleTextWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shimmer/shimmer.dart';

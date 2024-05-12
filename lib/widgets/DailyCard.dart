@@ -1,5 +1,5 @@
-import 'package:faradars_weather/model/weathermodel.dart';
-import 'package:faradars_weather/page/DayDetailsPage.dart';
+import 'package:weatherjavadtest/model/weathermodel.dart';
+import 'package:weatherjavadtest/page/DayDetailsPage.dart';
 import 'package:flutter/material.dart';
 
 class DailyCard extends StatelessWidget {

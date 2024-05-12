@@ -1,4 +1,4 @@
-import 'package:faradars_weather/model/weathermodel.dart';
+import 'package:weatherjavadtest/model/weathermodel.dart';
 import 'package:flutter/material.dart';
 
 class DayDEtailsPage extends StatelessWidget {

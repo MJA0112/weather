@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:faradars_weather/Constants.dart';
-import 'package:faradars_weather/model/HourlyWeather.dart';
-import 'package:faradars_weather/model/weathermodel.dart';
-import 'package:faradars_weather/page/HomePage.dart';
+import 'package:weatherjavadtest/Constants.dart';
+import 'package:weatherjavadtest/model/HourlyWeather.dart';
+import 'package:weatherjavadtest/model/weathermodel.dart';
+import 'package:weatherjavadtest/page/HomePage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:geolocator/geolocator.dart';
